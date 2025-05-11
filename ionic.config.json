@@ -1,0 +1,7 @@
+{
+  "name": "apt-recovery",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
